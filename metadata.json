@@ -1,0 +1,6 @@
+{
+  "name": "سِينرجي ون | رِكاز للمحاسبة والإدارة وحلول الأعمال",
+  "description": "المنصة الرسمية لشركة سِينرجي ون (رِكاز) - شريكك الاستراتيجي في التدقيق المالي، مسك الحسابات، أنظمة ERP، ودراسات الجدوى",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
